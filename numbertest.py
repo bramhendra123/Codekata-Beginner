@@ -1,7 +1,10 @@
-num = float(input("Enter a number: "))
-if num > 0:
-   print("Positive number")
-elif num == 0:
-   print("Zero")
+n = float(input())
+if n<0:
+    print("Negative")
+elif n>0:
+    print("Positive")
 else:
-   print("Negative number")
+    print("Zero")
+        
+    
+    
