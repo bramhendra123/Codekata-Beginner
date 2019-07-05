@@ -1,6 +1,9 @@
 n=int(input())
-if n%2==0
+if n%2==0:
    print("even")
-else:
+elif n%2!=0:
    print("odd")
+else:
+   print("invaild")
+   
    
