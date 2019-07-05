@@ -1,8 +1,8 @@
 n = float(input())
 if n<0:
-    printf("negative")
+    print("negative")
 elif n>0:
-        printf("positive")
+        print("positive")
 else:
-        printf("Zero")
+        print("Zero")
             
